@@ -5,7 +5,7 @@
 ### Data Science & AI Master's Student · Building practical AI applications
 
 **ENSA El Jadida, Morocco**  
-Seeking a **4–6 month final-year internship (PFE)** starting **February/March 2027** · France & Europe
+Seeking a **4–6 month final-year internship (PFE)** starting **February/March 2027** · Maroc & France
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhamid-ben-drif-10883928b/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-287A80?style=flat-square&logo=gmail&logoColor=white)](mailto:bendrifhamiid@gmail.com)
