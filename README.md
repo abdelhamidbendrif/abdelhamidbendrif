@@ -29,11 +29,11 @@ I enjoy connecting models with working software: building a backend, processing 
 
 | Project | What I worked on | Main tools |
 | :--- | :--- | :--- |
-| 🛡️ [**Sentinel-Agent**](https://github.com/abdelhamidbendrif/Sentinel-Agent) | Prototype controls around AI-agent tool calls: scope policies, call budgets, human approval and session audit logs. | Python · Google ADK · MCP · Streamlit |
-| 🧠 [**EEG / Brain–Computer Interfaces**](https://github.com/abdelhamidbendrif/pfa) | Imagined-speech classification; compared 62 preprocessing configurations using held-out-session evaluation. | MNE · CSP · regularized LDA |
-| 📡 [**KafkaStream Monitor**](https://github.com/abdelhamidbendrif/kafka-stream) | Local Kafka monitoring prototype with metrics ingestion, backend APIs, alert management and anomaly-detection components. | Kafka · FastAPI · Redis · Docker |
-| 👁️ [**DriveGuard**](https://github.com/abdelhamidbendrif/drowsiness-detection) | Drowsiness-detection prototype combining eye/yawn classifiers, facial landmarks, individual calibration and temporal smoothing. | MobileNetV2 · MediaPipe · Streamlit |
-| 🎙️ [**Crista**](https://github.com/abdelhamidbendrif/Crista-Ai) | Voice-assistant prototype with speech recognition and synthesis, PDF reading and hosted AI inference. | Python · React · Electron · Hugging Face APIs |
+| [**Sentinel-Agent**](https://github.com/abdelhamidbendrif/Sentinel-Agent) | Prototype controls around AI-agent tool calls: scope policies, call budgets, human approval and session audit logs. | Python · Google ADK · MCP · Streamlit |
+| [**EEG / Brain–Computer Interfaces**](https://github.com/abdelhamidbendrif/pfa) | Imagined-speech classification; compared 62 preprocessing configurations using held-out-session evaluation. | MNE · CSP · regularized LDA |
+| [**KafkaStream Monitor**](https://github.com/abdelhamidbendrif/kafka-stream) | Local Kafka monitoring prototype with metrics ingestion, backend APIs, alert management and anomaly-detection components. | Kafka · FastAPI · Redis · Docker |
+| [**DriveGuard**](https://github.com/abdelhamidbendrif/drowsiness-detection) | Drowsiness-detection prototype combining eye/yawn classifiers, facial landmarks, individual calibration and temporal smoothing. | MobileNetV2 · MediaPipe · Streamlit |
+| [**Crista**](https://github.com/abdelhamidbendrif/Crista-Ai) | Voice-assistant prototype with speech recognition and synthesis, PDF reading and hosted AI inference. | Python · React · Electron · Hugging Face APIs |
 
 *Academic and personal prototypes, built to learn, experiment and document practical engineering decisions.*
 
