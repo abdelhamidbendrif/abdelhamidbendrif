@@ -1,10 +1,26 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm ᗩᗷᗪEᒪᕼᗩᗰIᗪ</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Abdelhamid Ben Drif</h1>
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+Master’s student in **Data Science and Artificial Intelligence at ENSA El Jadida, Morocco**, with practical experience in machine learning, computer vision, EEG signal processing, and backend development.
+
+- 🎓 Previously completed a Bachelor’s in Mathematics and Computer Science and a DUT in Computer Engineering.
+- 🧠 My projects cover AI agent security, real-time anomaly detection, drowsiness detection, and brain-computer interfaces.
+- 💻 Built a MERN real estate management platform during my full-stack development internship at Vala Orange.
+- 🌱 Participating in practical backend AI engineering training at Flyrank AI.
+- 🔎 Seeking a **6-month final-year AI engineering internship starting February 2027**, open to relocation to France and Europe.
+
+## 🚀 Selected Projects
+
+| Project | What I built | Key technologies |
+| --- | --- | --- |
+| [Sentinel-Agent](https://github.com/abdelhamidbendrif/Sentinel-Agent) | A security framework for AI agents with prompt-injection defenses, access policies, and human approval. | Python, Google ADK, MCP, pytest |
+| [KafkaStream Monitor](https://github.com/abdelhamidbendrif/kafka-stream) | A monitoring prototype with alert management and experimental anomaly detection. | Kafka, FastAPI, Redis, Docker, Isolation Forest, Prophet, SHAP |
+| [DriveGuard](https://github.com/abdelhamidbendrif/drowsiness-detection) | Real-time drowsiness detection combining eye-state and yawning classifiers with facial landmarks. | TensorFlow/Keras, MobileNetV2, MediaPipe, Streamlit |
+| [EEG Pipeline Optimization](https://github.com/abdelhamidbendrif/pfa) | An EEG classification pipeline evaluated across 62 configurations using held-out recording sessions. | Python, MNE, CSP, LDA |
+| [Crista](https://github.com/abdelhamidbendrif/Crista-Ai) | A voice assistant with speech recognition, text-to-speech, and voice-controlled automation. | Python, Hugging Face APIs |
 
 
 ## 📊 GitHub Stats & Trophies
@@ -17,7 +33,7 @@
   <img src="https://www.gitskins.com/api/section/stack?username=abdelhamidbendrif&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=abdelhamidbendrif&theme=github-dark&mode=dark" alt="ᗩᗷᗪEᒪᕼᗩᗰIᗪ's GitHub Trophies" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=abdelhamidbendrif&theme=github-dark&mode=dark" alt="Abdelhamid Ben Drif's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=abdelhamidbendrif&theme=github-dark&mode=dark" alt="abdelhamidbendrif's Activity Graph" />
@@ -28,27 +44,31 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+### Programming & Backend
+Python · SQL · JavaScript · FastAPI · REST APIs · Node.js · Express.js · React
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+### AI & Machine Learning
+scikit-learn · TensorFlow/Keras · PyTorch · Google ADK · MCP
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+### Signal Processing & Computer Vision
+MNE · CSP · LDA · OpenCV · MediaPipe · MobileNetV2
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+### Data & Development Tools
+Kafka · PostgreSQL · MongoDB · Redis · Docker · Git · Linux · Power BI
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+## 📚 Training & Certifications
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+- AWS Academy — Generative AI Foundations (2026)
+- AWS Academy — Cloud Foundations (2026)
+- LinkedIn Learning — Cybersecurity Foundations (2025)
+- Cisco Networking Academy — Python Essentials 1 (2025)
 
+## 🌍 Languages
+
+Arabic: native · French: B1 · English: B2
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/abdelhamid-ben-drif-10883928b/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:bendrifhamiid@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdelhamidbendrif&theme=github-dark&mode=dark&style=snake" />
@@ -62,4 +82,3 @@
   <!---->
 </div>
 
-<p align="center"><sub>ᗩᗷᗪEᒪᕼᗩᗰIᗪ · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
